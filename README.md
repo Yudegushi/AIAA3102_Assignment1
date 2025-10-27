@@ -15,7 +15,7 @@ Follow these steps to run the simulation from the command line:
 # 2. (Optional) Create and activate a virtual environment.
 # 3. Unzip the submission .zip file.
 # 4. Navigate to the project directory in your terminal.
-cd 50013590_BoyiZHANG_A1
+cd ********_*********_A1
 # 5. Run the main script:
 python main.py
 # No external libraries are required, only the Python standard library (random, time, abc) is used.
