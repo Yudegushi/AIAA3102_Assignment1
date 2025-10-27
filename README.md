@@ -1,8 +1,8 @@
 # Pythonic Ecosystem Simulator 
 
 ## 1.Student Information
-- **Name:** Boyi ZHANG 
-- **Student ID:** 50013590
+- **Name:** **** *****
+- **Student ID:** ********
 
 ---
 
